@@ -131,5 +131,7 @@ dmypy.json
 
 20news-bydate-test/
 20news-bydate-train/
-20news-bydate.tar.gz
+*.tar.gz
+*.zip
 .vscode/
+data/
